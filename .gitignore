@@ -1,1 +1,6 @@
 */.DS_STORE
+/data/*
+/config/*
+/movies/*
+/transcode/*
+/tv/*
